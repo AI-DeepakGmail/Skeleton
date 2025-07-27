@@ -1,0 +1,12 @@
+F:\Skeleton\MyProjectSolution\AuthLib\obj\Debug\net8.0\AuthLib.csproj.AssemblyReference.cache
+F:\Skeleton\MyProjectSolution\AuthLib\obj\Debug\net8.0\AuthLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Skeleton\MyProjectSolution\AuthLib\obj\Debug\net8.0\AuthLib.AssemblyInfoInputs.cache
+F:\Skeleton\MyProjectSolution\AuthLib\obj\Debug\net8.0\AuthLib.AssemblyInfo.cs
+F:\Skeleton\MyProjectSolution\AuthLib\obj\Debug\net8.0\AuthLib.csproj.CoreCompileInputs.cache
+F:\Skeleton\MyProjectSolution\AuthLib\bin\Debug\net8.0\AuthLib.deps.json
+F:\Skeleton\MyProjectSolution\AuthLib\bin\Debug\net8.0\AuthLib.dll
+F:\Skeleton\MyProjectSolution\AuthLib\bin\Debug\net8.0\AuthLib.pdb
+F:\Skeleton\MyProjectSolution\AuthLib\obj\Debug\net8.0\AuthLib.dll
+F:\Skeleton\MyProjectSolution\AuthLib\obj\Debug\net8.0\refint\AuthLib.dll
+F:\Skeleton\MyProjectSolution\AuthLib\obj\Debug\net8.0\AuthLib.pdb
+F:\Skeleton\MyProjectSolution\AuthLib\obj\Debug\net8.0\ref\AuthLib.dll
